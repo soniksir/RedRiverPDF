@@ -1,0 +1,24 @@
+# Python derleme dosyaları
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Sanal ortam
+venv/
+env/
+
+# Derlenmiş uygulama
+dist/
+build/
+*.spec
+
+# Log dosyaları
+*.log
+
+# IDE dosyaları
+.vscode/
+.idea/
+
+# Sistem dosyaları
+.DS_Store
+Thumbs.db
