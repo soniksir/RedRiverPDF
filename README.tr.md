@@ -56,6 +56,21 @@ EXE olarak çalıştırmak için:
 
 \- Poppler (PDF önizleme için)
 
+
+## 🔽 İndir
+
+👉 [RedRiverPDF v1.0 Sürümünü İndir](https://github.com/soniksir/RedRiverPDF/releases/latest)
+
+> 📦 Windows için EXE dosyası en son sürümde mevcuttur.
+
+
+## 📦 Gereksinimler
+
+- Windows 10 veya üzeri  
+- Poppler (EXE paketine dahil)
+
+
+
 📄 Lisans
 
 Bu proje MIT lisansı ile lisanslanmıştır.Lisans detayları için LICENSE dosyasına bakınız.
