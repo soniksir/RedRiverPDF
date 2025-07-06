@@ -58,6 +58,20 @@ Run as EXE:
 
 \- Poppler (for PDF preview)
 
+## 📦 Requirements
+
+- Windows 10 or later
+- Poppler for Windows (included in EXE package)
+
+
+
+👉 [Download RedRiverPDF v1.0](https://github.com/soniksir/RedRiverPDF/releases/latest)
+
+> 📦 Windows EXE version included in the latest release.
+
+
+
+
 📄 License
 
 This project is licensed under the MIT License
